@@ -77,10 +77,10 @@ This operator allows you to view the cached version of a page. For example, "cac
 ![239720337-e127c95b-a133-42d4-aa3d-a833faa3aad0](https://github.com/Yogeshvar005/Enumeration/assets/113497367/8e479e7c-f00f-42bb-a3e6-5b13058325c9)
 
  
-#DNS Enumeration
+## DNS Enumeration
 
 
-##DNS Recon
+### DNS Recon
 provides the ability to perform:
 Check all NS records for zone transfers
 Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT)
