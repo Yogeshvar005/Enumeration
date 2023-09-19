@@ -95,7 +95,7 @@ Top level domain expansion
 
 
 
-##Dnsenum
+## Dnsenum   
 Dnsenum is a multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks. The main purpose of Dnsenum is to gather as much information as possible about a domain. The program currently performs the following operations:
 
 Get the host’s addresses (A record).
@@ -111,7 +111,7 @@ This program is useful for pentesters, ethical hackers and forensics experts. It
 
 ![241198023-795c489d-ba57-4e77-9791-49c71fc3f4d3](https://github.com/Yogeshvar005/Enumeration/assets/113497367/2c0be4b0-705e-4c3f-9658-bb773e95a5b0)
 
-##smtp-user-enum
+## smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
 ![241410635-c41be6f0-d0d4-40eb-9074-136cabe5c74b](https://github.com/Yogeshvar005/Enumeration/assets/113497367/861d02e6-ad2e-4f7f-b9b5-2521cb6d7b1d)
 
@@ -123,12 +123,12 @@ select any username in the first column of the above file and check the same
 
 ![241408615-ad0d26fe-7a60-4604-be93-1bf950d88646](https://github.com/Yogeshvar005/Enumeration/assets/113497367/e0bd992a-a093-4521-9190-e377286c4a74)
 
-#Telnet for smtp enumeration
+## Telnet for smtp enumeration
 Telnet allows to connect to remote host based on the port no. For smtp port no is 25
 telnet <host address> 25 to connect
 and issue appropriate commands
   
- ##Output
+## Output
   
   ![241409971-4fd9ca59-abdf-43bc-917c-71e2c7e4351d](https://github.com/Yogeshvar005/Enumeration/assets/113497367/a8470755-3ba8-48a1-b5fc-453a250d2fe6)
 
